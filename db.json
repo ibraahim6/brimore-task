@@ -1,5 +1,5 @@
 {
-    "todos":[
+    "todos": [
         {
           "userId": 1,
           "id": 1,
@@ -239,8 +239,7 @@
           "id": 40,
           "title": "totam atque quo nesciunt",
           "completed": true
-        },
-
+        }
       ],    
     "profile": {
       "name": "ibraahim6"
